@@ -1,0 +1,189 @@
+O que a gente vai fazer agora? A gente vai gerar a capa lá no Midjourney. E eu já
+trouxe aqui dois prompts pré-prontos para a gente discutir em cima entender aqui a
+base, até para você escrever os seus, só para a gente não ficar perdendo muito tempo
+com coisa redundante. Então assim, geralmente um prompt do Midjourney, quanto
+mais contexto, melhor.
+
+Então geralmente qual é o padrão de um prompt do Midjourney. Lembrando que aqui
+dentro do Notion ele vai estar nessa parte aqui de artista. Então, vai ser esses os
+prompts aqui que vão fazer o papel de um artista. Então, ele sempre é alguma coisa.
+Então, é o que você quer. Então ele sempre vai ser assim, o que você quer. Seguido
+do que? Seguido de palavras de contexto de configurações da imagem e filtros.
+
+Então, olha só, eu peguei um exemplo aqui, a podcast young guy, ou seja, um cara,
+um podcaster, vou até colocar aqui um podcaster jovem um cara de podcast jovem
+bald hair, ou seja, calvo, sorrindo com o microfone lado a lado de um de uma cidade
+noturna. E aí eu posso passar as configurações da câmera, então camera settings, e
+aqui a gente passa uma configuração de exposição, de abertura do diafragma, a
+gente tem esse nível de controle no Midjourney.
+
+E aí eu posso passar vários adjetivos aqui de configuração de imagens e filtros. Então
+eu quero uma luz complexa com cores de fundo, cores cinemáticas, uma iluminação
+global, eu quero ultra realismo, quero filtros realistas de cores reais, que a foto seja
+parecida com fotos processadas em 16K, cinemáticas, fotorrealistas, hiperrealista,
+hiperrealistic, cinematic light, ultrarealistic, photographic, ultradetalhado.
+
+Então, tudo isso aqui são adjetivos, tá? Adjetivos da imagem. Então, assim, quanto
+mais adjetivos eu coloco, melhor é a nossa imagem lá no Midjourney. Tá? E depois
+disso eu passo dois parâmetros, né? Então como é eu passo parâmetros lá no
+Midjourney? Eu passo traço, traço e aí vem o nome de um parâmetro. O ar aqui, ele
+é o tamanho da composição da imagem. Então se eu vier aqui no Google imagens
+1:1, que foi o que eu coloquei são imagens naquele formato mais quadradinho, né?
+Então elas são imagens com esse formato aqui. Então 1:1 é um formato quadrado,
+3:4 é um formato vertical, horizontal 5:4 e tem o 16:9 ali, que é aquele formato
+retangular que a gente vê no YouTube.
+
+Existem outros formatos também, como o 9:16, que é aquele em pé, que parece o
+tamanho de um Stories para Instagram, que é esse 9:16, mas eu vou trabalhar com
+1;1, porque é uma capinha quadrada. E essa vai ser a imagem de capa do nosso
+podcast. Vamos pedir isso aqui lá para o Midjourney, desse jeito aqui.
+
+Então, eu vou acessar aqui o meu Midjourney. Então, já estou com ele aberto aqui.
+Lembrando que o Midjourney você acessa pelo Discord. Então, você vai acessar o
+servidor do Discord lá pelo site midjourney.com. E vai cair aqui. E aí, o que eu vou
+fazer? Eu vou abrir algum desses canais aqui, e eu consigo até ver o que as outras
+pessoas estão pedindo, e é bem legal, porque tem uns prompts que geram umas
+imagens muito interessantes.
+E aí eu vou digitar aqui, Imagine Prompt, e vou colar o meu prompt aqui. Vou fazer
+isso aqui e dar um Enter. Então, o ar aqui é justamente para ele dar ali o aspect ratio,
+que é o tamanho. E o v é a versão do Midjourney que eu quero utilizar. No caso eu
+estou pedindo para ele utilizar a 5.2 que é a versão mais atual do Midjourney.
+
+Estou forçando ele a usar a versão mais atual do algoritmo. Ele vai levar um tempinho
+para processar então ele já está ali em 15% e ele está usando todos aqueles adjetivos
+para compor a minha imagem. E olha só como está ficando realista A nossa imagem.
+E ele está finalizando aqui, vou até deixar o prompt aqui no esquema, então ele vai
+gerar a imagem para gente aqui de um cara calvo com fone, tem um microfone aqui
+flutuando, então de vez em quando ele dá umas desencaixadas e você precisa gerar
+a imagem de novo, mas já dá pra ver que ele está sendo bem realista nas imagens
+que ele está gerando.
+
+Ele está gerando um cara calvo aqui, podcaster. Vamos ver as imagens que ele gerou.
+Olha só, essas são as imagens que ele gerou. E olha o nível de realismo dessas
+imagens. Então, elas estão bem bacanas. Eu poderia vir aqui no prompt, por exemplo
+vou colocar aqui uma imagem bem maluca utilizando as mesmas configurações, a
+podcaster Erling Haaland. Vou colocar o jogador aqui, o Haaland. Vamos ver o que
+ele cria para gente com essas configurações aí. Coloquei o jogador do Manchester
+City. Vamos ver como ele gera essa imagem para a gente mais a cargo de
+curiosidade. Mas olha aqui as imagens que as pessoas estão gerando. Alguns
+prompts mais simples também geram imagens bem bacanas.
+
+Mas quanto mais informação você fornece sobre adjetivos daquela imagem, mais
+específico vai ser a qualidade daquela imagem. Então ele trabalha muito com isso.
+Então aqui no caso eu passei nome de uma celebridade real. Vamos ver como que
+ele gera essa imagem. Dá para ver aqui que esse Haaland dele já está um Haaland
+da Shopee.
+
+Ele nem terminou de gerar, mas eu tô vendo que as referências que ele tem do
+Haaland aqui já não tão 100%. Mas ainda dá para ver que a imagem que ele vai gerar
+parece pessoas de verdade mesmo, ele imita pessoas de verdade muito bem. Então,
+é até confuso na hora que você vê aqui o conteúdo que ele gera, do que é verdade e
+do que não é.
+
+Você nem consegue distinguir isso aqui de algumas vezes de pessoas de verdade.
+Então, vamos ver, ele vai jogar aqui para o fim da fila e olha só as imagens que ele
+gerou para a gente com isso aqui, bem divertido. Mas, pensando aqui no nosso
+modelo. Eu criei aqui, Create a Knight RPG Like Final Fantasy Podcaster, ou seja, eu
+criei um cavaleiro de RPG, como se fosse um Final Fantasy Podcast, com um
+microfone RGB verde no topo de um castelo, coloquei aqui algumas configurações
+da câmera, coloquei Retro Style, Isometric, Cub, Game Style, Low Resolution, Down
+Angle para a gente ver ele por baixo, com Game Boy Colors. E aí eu poderia adicionar
+vários outros adjetivos aqui, mas eu vou fazer isso aqui. Eu vou tirar as configurações
+de câmera, principalmente quando se trata de um formato tipo jogo. Não sei se faz
+muito sentido, então vamos excluir isso aqui, afinal eu quero que ele tenha um visual
+mais retro e não um visual mais realista. Vou fazer isso aqui, vou dar um Enter, vamos
+ver o resultado que ele gera para a gente. Fiquei curioso para ver o resultado obtido.
+E é legal que a gente consegue ir vendo o que as outras pessoas estão gerando com
+outros prompts. Você vê que tem uns prompts bem malucos. Você tem de um tudo,
+desde uma fotografia ultra realista de um personagem até coisas mais fantasiosas.
+
+Mas vamos ver aqui o que ele está aprontando para a gente com esse comando aqui.
+Então ele está gerando aqui, Create a Knight RPG, cria um cavaleiro RPG, vamos ver
+o que ele gera aqui para a gente. E ele focou muito nessa imagem do castelo e eu
+não queria tanto essa imagem do castelo eu queria mais o cavaleiro.
+
+Então eu vou colocar aqui, já vou mudar aqui um pouco esse prompt e vamos
+acertando esse prompt, que deu pra ver que ele focou muito no castelo. Então eu vou
+tirar essa parte do castelo aqui. Então eu vou criar: create a knight RPG character.
+Vou colocar aqui personagem. É... Eu vou colocar aqui as, como se fosse um podcast,
+né? As podcaster, bitgreen. Vou tirar essa parte do RGB, microfone. Vou tirar essa
+parte do ISO 100 aqui também, tá? Retro Style. Então, a arte que ele gerou para a
+gente foi mais de castelo. Então, eu vou deixar aqui. E eu posso dar peso para uma
+palavra também no Midjourney. Então, eu poderia colocar dois pontos, dois pontos e
+colocar que isso aqui tem um peso.
+
+Vou colocar um peso 5. E vou pedir para ele gerar de novo. Vamos ver o resultado
+que a gente vai ter aqui agora com esse prompt aqui onde a gente colocou um peso
+de 5, então se eu coloco dois pontos, dois pontos, duas vezes, eu consigo colocar um
+peso numa palavra, então eu reforcei muito a palavra Knight, cavaleiro.
+
+Vamos ver o que ele vai gerar para a gente, lembrando que eu coloquei Retro Style,
+Isometric Hub, Game Style, Low Resolution. Vamos ver aqui o que ele vai gerar para
+a gente, dá para ver que é uma imagem bem misteriosa bem diferentona, e ele vai
+focar muito no lado do cavaleiro e não muito no lado do podcaster, pelo que eu já
+estou vendo aqui, embora sejam imagens muito legais. A gente pode continuar
+equilibrando isso aqui, vou colocar aqui, tirar esse peso da palavra cavaleiro e tirar a
+palavra RPG, character as a podcaster medieval.
+
+Eu vou tirar o microfone verde aqui para ele não se confundir tanto. Vamos dar um
+enter, ficou bem legal essas imagens embora ainda não sejam imagens com cara de
+um podcast. Eu vou colocar game style, low resolution, vou colocar aqui também 8
+bits, retro sprites, que são figuras de games ali mais retro, que era um aspecto mais
+game, né?
+
+Vamos fazer isso aqui, vamos dar um Enter e vamos ver ele gerar. E olha que legal,
+aqui nas outras imagens que o pessoal tem gerado aqui, bem interessantes, né? A
+gente pode até pegar algumas outras aqui para se inspirar depois, mas vamos ver o
+que ele vai gerar a partir disso aqui. Então esse aqui já foi mais assertivo, né?
+
+Já dá para ver aqui pelo desenho que ele está formando aqui na tela, ele está
+começando a formar que ele está com uma carinha aqui mais minimalista mais
+carinha de game, e eu já estou vendo aqui alguma coisa parecida com um microfone
+na mão dele. Vamos esperar ele terminar de gerar. E olha só que legal, eu já vi uma
+imagem aqui que eu gostei.
+Vamos esperar ele dar 100%, se eu falar qualquer coisa. Vamos ver ele gerar aqui.
+Olha lá, 78%, ele está trabalhando nessa imagem e eu vou pegar essa primeira, essa,
+aliás essa terceira imagem aqui também tá bem legal, olha só, todos eles com
+microfones aqui. Eu gostei muito e eu gostei mais dessa segunda imagem aqui, ela
+tem cara, né, de um robozinho segurando o microfone então eu vou clicar vou clicar
+em Upscale, que é para ele fazer uma versão maior dessa imagem.
+
+Ele vai criar um job aqui e vai gerar aqui essa imagem maior. Que legal, a gente já
+tem aqui um robozinho aqui, né? Com as características. Vou clicar aqui em abrir no
+navegador para ele abrir essa imagem aqui grandona e já vou copiar essa imagem e
+vou levar lá para o nosso Notion. Então eu vou deixar aqui na parte aqui do nosso
+Notion e aí eu já vou levar a capinha aqui do nosso podcast e vou deixar ela aqui por
+enquanto, né?
+
+Se eu quiser colocar essa capa aqui, o que eu posso fazer? Eu poderia vir aqui e
+simplesmente levar essa imagem aqui no add file, né? E aí ele vira a minha imagem
+de capa né? Então eu posso fazer isso aqui, ó então eu poderia salvar essa imagem
+aqui. Vou salvar ela localmente, clicando aqui em Download, e ele vai baixar essa
+imagem, caso você queira fazer isso, tá?
+
+Clicando aqui em Files, eu vou arrastar essa imagem aqui para o meu Files. Deixa eu
+ver se ele deixou eu fazer isso direto, não deixou, não tem problema. Eu vou clicar
+aqui em Add, vou clicar aqui em Embed Link, vamos ver se funciona. Vou clicar aqui
+para copiar esse link. E vou colar aqui. Deixa eu ver se ele funciona para a gente fazer
+isso direto.
+
+Acho que ele funciona. lá, já aceitou a imagem. É só deixar essa imagem como
+primeira aqui na ordem que ele vai virar a capinha. Então eu tenho o DevQuest, a
+ordem dos desenvolvedores. Que legal, porque a gente já tem uma capinha aqui Para
+o nosso podcast aqui com um robôzinho. E chegou a hora de a gente fazer o quê?
+
+Chegou a hora de a gente fazer o roteiro do nosso podcast. Agora que o nosso robô
+artista aqui, a gente já conseguiu produzir uma arte aqui bem legal com esse
+robôzinho artista. Então, eu vou até salvar aqui o prompt que eu usei para criar esse
+robô. Então, eu vou vir aqui no meu artista e vou deixar salvo aqui para você que vai
+consumir esse conteúdo depois.
+
+Então, é exatamente assim que vai estar o prompt ali. Maravilha! Vamos agora para
+outra parte ali, que é a parte do roteiro para o nosso podcast. Então, imagina que no
+momento que você for subir ele para o Spotify, eu não vou chegar até o momento de
+publicação do Spotify, o Blizzard ou qualquer outra ferramenta, mas você pode vou
+fazer isso, inclusive vou te dar algumas dicas para caso você queira hospedar o seu
+podcast.
+
+Mas vamos gerar agora o roteiro do podcast que tem essa capinha aqui desse
+robozinho aqui. Vamos para cima.

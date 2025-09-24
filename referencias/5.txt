@@ -1,0 +1,84 @@
+E por fim, eu vou falar para você alguns conceitos avançados de Prompts que você
+vai ver, Prompts Engineer, e até mesmo quando você vê aqueles Prompts mais
+complexos tem pessoas até que vendem Prompts hoje em dia. Que são os conceitos
+de prompts negativos e passagem de variáveis ou até mesmo ali como você vai
+encontrar como prompt partner.
+
+Ele vai estar geralmente assim: prompt partner, que seria um padrão de prompts.
+Para você sempre padronizar a leitura visual para quem está consumindo aquele
+conteúdo. Mas vamos falar por partes. O que seriam os prompts negativos? Os
+prompts negativos são partes do prompt onde você indica o que você não quer.
+
+Então, geralmente quem está começando a utilizar essas ferramentas vai lá e fala
+para a ferramenta o que ela quer. Então, fala, olha eu quero que você gere isso, dessa
+maneira, ABC. E uma parte que reforça você direcionar para onde a resposta está
+indo e a qualidade da sua resposta, para não ser uma coisa tão aleatória, é você dizer
+de maneira bem clara ali o que você não quer.
+
+Então, quando você gera imagens, por exemplo, é muito comum você ver em prompts
+de Midjourney essa parte do prompt negativo de você falar, olha, não quero que seja
+pixelado não quero que a imagem tenha a cor vermelha por exemplo, e tudo mais. E
+no ChatGPT você também pode fazer isso, você pode colocar regras de prompt
+negativo a gente vai fazer isso juntos.
+
+E ali na passagem de variáveis do prompt, e aí cada ferramenta acaba lidando de
+uma maneira diferente, mas você pode fazer isso, de criar padrões ali dentro do seu
+prompt. Então, num prompt, você, por exemplo, pode colocar uma área de
+substituição onde eu falo por exemplo, olá nome, posso te ajudar, e aí você pode
+pedir para ele, dentro de uma regrinha, toda vez que você ver o bloco do nome,
+substitua-o pelo nome da pessoa, ou então, por exemplo, o Felipe.
+
+Se eu abrir aqui agora o meu ChatGPT, olha só, eu vou abrir aqui meu site aqui do
+OpenAI, né, então vamos lá na OpenAI, então vamos lá na parte dele ali do chat,
+OpenAI, né, afinal o site não é chatgpt.com. Se eu vier aqui e pedir para ele: Olá
+nome, como posso ajudar hoje, e colocar aqui entre as regras ó, vamos colocar aqui
+regras e aí vamos colocar aqui, substitua nome por um nome aleatório feminino, então
+fiz isso aqui, dei um enter, escrevi até errado aqui, substitui, coloco um “i” a mais, mas
+beleza, ele colocou Isabela. E aqui, se eu der um gerar de novo, ele vai gerar algum
+outro nome. Olha lá, Gabriela. Por que a gente utiliza isso? E onde a gente utiliza
+isso?
+
+Geralmente o pessoal que está construindo base fake, por exemplo, data analytics,
+utilizam para criar uma base fake mais rica. Então coloca ali, olha, eu quero uma
+coluna aqui com nome, uma coluna com idade uma coluna de tal jeito, uma coluna
+que siga tal condição matemática e tudo mais.
+
+Então você consegue ir fazendo, passando esses campos ali que eles são como se
+fossem blocos de placeholders, ou blocos de variáveis, que eles só estão ali
+segurando um lugar que vai ser substituído depois por algumas regras. E eu poderia
+elevar o nível disso aqui, fazendo da seguinte maneira, crie um roteiro de
+apresentação então eu vou colocar aqui de apresentação de currículo, para uma vaga
+de... e aí eu posso colocar aqui. Ao invés de deixar cravado uma coisa aqui, eu
+poderia colocar aqui, por exemplo, função. E aí aqui na função, o que eu vou pedir
+para ele? Eu vou pedir para ele, né, ali na parte de regras, tá? O que que eu vou falar
+para ele? Substitua o termo função por um nicho específico do ramo de programação.
+Então, falei basicamente para ele sempre substituir isso aqui por algum nicho
+específico. Então aqui, ele é o título para apresentar vaga desenvolvedor de software.
+E aí deu uma introdução aqui, ele criou um roteiro de apresentação, como se fosse
+um slide, para desenvolvedor de software.
+
+E aí ele deu uma sugestão aqui, super bacana até inclusive, de roteiro. Se eu colocar
+um regenerate aqui, olha só. Para a vaga em específico do ramo de programação. E
+aí aqui ele deu uma genérica, quando eu pedi para ele regerar isso aqui, eu vou pedir
+para ele regerar de novo. Mas aqui eu estou vendo que ele está dando algum
+problema aqui porque eu não especifiquei aqui a caixinha.
+
+Então eu vou dar um stop aqui. Então eu substituo o termo, e aí precisa estar o mesmo
+nome aqui. Vou colocar aqui, vou dar um enter. Vamos ver o resultado esperado que
+ele vai me dar. Olha só, agora sim, ele está substituindo. Agora ele mudou esse cara
+aqui para Dev Web Full Stack. Está vendo? Então ele sempre vai ficar variando essa
+caixinha aqui.
+
+Por quê? Porque esse valor não está cravado, ele é uma variável. Então eu consigo
+utilizar isso de N maneiras e de algumas maneiras bem estratégicas. Seja para gerar
+um conteúdo dinâmico, ou seja, por exemplo, não para substituir uma palavra, mas
+por exemplo eu quero que ele sempre crie uma introdução levemente diferente, com
+uma leve variação ou adicione uma leve variação de um código, ou uma leve variação
+no meio do conteúdo, não importa.
+
+Eu consigo utilizar esses padrões aqui dentro, da maneira como eu quiser, essas
+variáveis aqui podem me ajudar de diferentes maneiras criativas. Mas esses são
+conceitos avançados bem legais e a gente vai explorar eles agora gerando um
+conteúdo ali para a gente fazer a seguinte coisa, a gente primeiro vai gerar nesse
+documento do Notion aqui, a gente vai gerar um novo podcast, e aí a gente vai se
+apoiar nesse documento aqui.

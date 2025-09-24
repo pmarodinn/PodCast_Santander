@@ -1,0 +1,56 @@
+Para a gente gerar o nosso podcast, eu criei esse documento para você se organizar.
+Isso aqui é documento do Notion e eu vou compartilhar esse documento aqui
+publicamente. Ele vai estar lá nos materiais complementares, então fica
+despreocupado, fica despreocupada que todo esse conteúdo aqui que eu vou te
+apresentar vai estar sim compartilhado ali.
+
+Eu vou ter um link do GitHub, onde vai ter o link de todo o material utilizado durante
+esse conteúdo, inclusive o link desse Notion. E eu queria aproveitar durante a
+explicação desse projeto até para te explicar o que seria uma evolução disso tudo
+aqui e te explicar alguns conceitos de Prompt Engineer.
+
+Caso você nunca tenha ouvido falar nesse termo o Prompt Engineer é uma profissão
+que é engenheiro de prompt. Felipão, o que é um engenheiro de prompt? Afinal, o
+que é um Prompt? O Prompt são essas telinhas pretas, então esses sistemas aí que
+tem essas telinhas pretas onde a gente passa comandos. Então, você provavelmente
+já deve ter visto aqui.
+
+Porém quando a gente começou a criar ferramentas de inteligência artificial, a gente
+começou a criar muita complexidade de prompt e muitas maneiras diferentes de se
+extrair qualidade das respostas obtidas. Então, para isso criou-se uma nova profissão
+que é o engenheiro de prompt. Então, o prompt engineer basicamente é uma pessoa
+que tem o foco de extrair o máximo de um prompt através de algum terminal.
+
+Então, pelo ChatGPT, a gente tem ali a parte onde você escreve no chat para
+conversar com a ferramenta. A gente vai ver um pouco mais ali do Midjourney que
+você também pede alguma coisa para a ferramenta. Então, prompt sempre são essas
+telinhas pretas que você está vendo. E pensando que ali na inteligência artificial é
+como se fosse um supercomputador que tem um conhecimento muito vasto, o papel
+do engenheiro de prompt é escrever um prompt mais otimizado possível para poder
+filtrar todo aquele conhecimento da Inteligência Artificial e voltar para ele somente
+uma resposta mais esperada e não uma resposta totalmente aleatória, mas que seja
+uma resposta com contexto, com resultado dentro de algum molde ou até mesmo
+para atender algumas premissas para diminuir o fator de aleatoriedade em volta da
+resposta e trazer um resultado muito mais assertivo. Então essa é a função de um
+prompt engineer.
+
+Então, resumindo, o prompt engineering é a arte ou a ciência de criar mensagens
+claras para computadores e que extraem o maior poder de uma ferramenta, seja o
+ChatGPT, seja o Midjourney, ou seja qualquer outra ferramenta de inteligência
+artificial. Boa parte delas ali você vai estar lidando com comandos que você imputa,
+né?
+
+Então, para esses comandos aí, você precisa ter muito claro esse conceito de Prompt
+Engineer, que ele é uma evolução de tudo que a gente vem conversando, e o melhor
+de tudo é que todos esses conceitos de Prompt Engineer, eles são basicamente
+conceitos de como você filtra informações pedindo por Prompt, adicionando regras
+criando padrões de conversa com a ferramenta.
+E tudo isso é feito através de mensagem, e daí que vem o nome de engenheiro de
+Prompt. E você deve estar se perguntando, poxa Felipão, então existe toda uma
+profissão que lida com esses prompts, e não à toa que você vê muito, como hoje em
+dia, pessoas que até vendem prompts. Então, sim, os prompts são muito poderosos.
+
+Se engana quem acha que é só uma pergunta, um pedido para uma ferramenta como
+o ChatGPT, porque tem muita coisa, sim, que dá para você fazer ali no prompt. E é o
+que a gente vai conversar na sequência, que é o que você pode fazer para começar
+a escrever prompts mais profissionais.

@@ -1,0 +1,98 @@
+E eis que chegou a hora de a gente fazer o quê? De a gente gerar o roteiro de um
+episódio do nosso podcast. E para isso, eu já fiz um prompt aqui bem mais rebuscado
+e eu vou acabar falando para você para a gente não ficar naquele processo longo de
+você me ver escrever esse prompt, mas sim te explicar.
+
+Então, qual é o prompt para gerar um roteiro? Então, eu falei para ele você é um
+roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia focado em
+front-end, cujo nome é DevQuest, a ordem dos desenvolvedores, e tem o foco em
+front-end. Então, eu dei um cenário, dei um contexto para ele, com o público-alvo de
+iniciantes em front-end, ou seja, disse até quem é o tipo de ouvinte daquele podcast.
+E aí, eu coloquei aqui um formato de roteiro. Então, o formato do roteiro deve ser... E
+aí, eu deixei alguns patterns aqui, deixei algumas variáveis. Então, eu não deixei nada
+fixo. Então, aqui são bloquinhos que ele vai poder substituir dinamicamente.
+
+E aí, nas regras eu coloquei no bloco de introdução, substitua por um por uma
+introdução iguais as introduções dos vídeos do canal "ei nerd", como se fossem
+escritas pelo Peter Jordan ali, que é o apresentador do canal "ei nerd". Eu gosto do
+jeito como ele apresenta os conteúdos dele. E aí eu coloquei no bloco de curiosidade
+1, substitua sempre por uma curiosidade de CSS, e no bloco de curiosidade 2,
+substitua sempre sobre uma ferramenta para frontends.
+
+Então, sempre vai ter uma dica de CSS e uma dica de ferramentas que os frontends
+geralmente utilizam. E no bloco de finalização, substitua por uma despedida cool ali
+com um final. Eu sou o Felipão e esse foi o DevQuest dessa semana. Use termos
+fáceis de explicação... O podcast deve ser apresentado somente para uma pessoa,
+no caso aqui chamado Felipão, e o podcast deve ser curto.
+
+Além disso, eu também coloquei as negativas para ele, que é não use muitos termos
+técnicos e não ultrapasse os cinco minutos de duração. É a minha regra do meu
+podcast, aqui poderia ser qualquer outra coisa. O que eu vou fazer aqui? Eu vou
+copiar então, o meu prompt, vamos vir aqui no ChatGPT, vou abrir aqui um novo chat,
+e aí eu vou pedir para o meu chat, vou dar um enter aqui para o meu ChatGPT e ele
+já vai começar a gerar aqui.
+
+E olha como ele vai separando pelos bloquinhos. Então para cada bloquinho ele vai
+fazer uma substituição de conteúdo, né? Então, ele falou, o narrador: Olá, galera,
+sejam muito bem-vindos ao DevQuest, a Ordem dos Desenvolvedores, o podcast que
+vai te levar em uma jornada épica pelo fascinante mundo do desenvolvimento front-
+end.
+
+Olha que legal. Aqui desvendaremos os segredos os desafios dessa área, tudo de
+uma forma descomplicada e divertida, então se prepare para embarcar nessa
+aventura tecnológica comigo. Seu guia nessa jornada, eu sou o Felipão. Olha só que
+legal que ele vai criando. E aqui ele deixou uma dica e para começar essa jornada,
+eu vou compartilhar com vocês uma curiosidade incrível do CSS, e ele fala aqui de
+quando foi criado o significado, deixei bem legal, e depois ele fala assim, agora vamos
+conhecer uma ferramenta fantástica para desenvolvedores frontend, e aqui no caso
+ele fala, do VS Code, ele escolheu aqui.
+E assim chegamos ao final de mais um Code Quest. Espero que vocês tenham se
+divertido e aprendido muito sobre o mundo do Front-End. E lembre-se, a jornada de
+desenvolvedor é repleta de desafios, mas com dedicação e paixão você pode se
+tornar um verdadeiro mestre nessa arte. Continue explorando, estudando e
+praticando e logo você estará criando interfaces incríveis e funcionais.
+
+Eu sou o Felipão e esse foi o Code Quest dessa semana. Até a próxima aventura.
+Que legal o roteiro que ele gerou. Eu vou fazer o quê? Eu vou copiar esse roteiro
+porque é o seguinte, eu não vou narrar esse roteiro. A gente vai utilizar outra
+inteligência artificial para narrar esse roteiro. Então vamos voltar aqui no nosso Notion
+de organização E o que eu vou fazer?
+
+Aqui embaixo eu deixei uma parte aqui de podcasts. Então, o que você vai fazer?
+Você vai clicar aqui em New, e aí eu vou colocar aqui, por exemplo, podcast ep1, eu
+vou colocar aqui 01, o mundo do CSS, ou então hello world, e aí eu vou colar esse
+conteúdo aqui. E aí, aqui no Properties o que eu vou fazer?
+
+Em Podcast, eu vou clicar e vou selecionar aqui qual é o podcast, então eu vou
+selecionar o DevQuest. Que é o podcast que a gente criou. Quais são as tags desse
+podcast aqui? Então, eu vou colocar CSS, VS Code, então desse episódio aqui, quais
+são as tags. E se eu quisesse gerar alguma imagem aqui de capa para esse episódio,
+a gente poderia gerar lá no Midjourney.
+
+Então, a gente poderia abrir de volta ali o Midjourney e gerar mais alguma outra arte
+de capa para esse episódio em específico que não tem muito segredo, a gente já fez
+isso uma vez, a gente já tem um episódio aqui do podcast, então esse vai ser o nosso
+carinha. E a gente pode clicar aqui no nosso podcast e fazer algumas configurações,
+então qual que é o tema, no caso aqui é tecnologia e vou colocar front-end, que esse
+é o podcast que está linkado aqui, com esse carinha aqui, que é podcast Hello World.
+
+Eu já tinha baixado essa imagem aqui, que eu gerei também, é imagem de robô
+aleatória. Eu vou clicar só em Download aqui, só para fazer o upload dela aqui nesse
+Files and Media aqui, só para a gente deixar ele aqui. Deixa eu ver se ele me deixa
+fazer isso. Vou colocar um choose a file. E aí vou selecionar deixa eu pegar aqui essa
+imagem, está até aqui, vou até selecionar também esse robôzinho, e aí pronto,
+selecionei a imagem aqui do robôzinho, ele já vai aparecer aqui para mim no preview,
+posso colocar um ícone aqui para ele, clicando aqui, no meu caso aqui eu vou deixar
+um sei lá um código, vou deixar um código, e aí eu clico aqui em Select Icon Color,
+meu inglês is very bad, sorry for my english, então realmente precisamos de um
+narrador aqui, porque eu não sei falar muito bem termos em inglês essa é a verdade,
+meu inglês não é muito bom.
+
+Por isso, vamos lidar com uma ferramenta que vai narrar pela gente. Então, olha só,
+a gente foi lá no roteirista, criamos o nosso título e no mesmo roteirista a gente utilizou
+o prompt aqui para o episódio de podcast. Episódio vou até deixar aqui, de podcast,
+onde a gente copiou e colou lá no ChatGPT. A gente tem aqui no nosso Notion uma
+área para a gente ir adicionando os nossos podcasts e uma área para a gente ir
+adicionando os nossos episódios de podcast.
+Mas agora, vamos utilizar outra ferramenta para a gente gerar a narração desse
+podcast aqui, para a gente ver o que dá para a gente construir de legal com ela.

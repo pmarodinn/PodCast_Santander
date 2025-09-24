@@ -1,0 +1,174 @@
+Felipão, só que é o seguinte, eu queria editar meu podcast, eu queria que ele tivesse
+uma música de fundo e tudo mais, como que eu posso fazer isso, colocar uns efeitos
+de repente... Cortar algumas partes. Existem ferramentas de áudio multimídia com IA
+para editar isso, mas elas não são muito acessíveis.
+
+Então, eu foquei em trazer uma ferramenta que ela tem um leque de opções para que
+você consiga tratar isso de uma maneira fácil e fazer uma coisa de uma maneira
+profissional, por mais que não seja utilizando o auge da IA, mas com uma ferramenta
+que traga facilidades para você fazer isso. E para isso eu vou utilizar a ferramenta do
+CapCut.
+
+O CapCut era um editor de vídeo, do TikTok. Então, assim como o Instagram tem o
+editor de Reels, o editor de Stories dentro do próprio aplicativo, o editor de vídeo do
+TikTok ganhou muita complexidade e acabaram decidindo fazer um aplicativo a parte.
+E daí nasceu o CapCut, que é um editor de vídeo, ele cria legendas e tudo mais.
+
+E ele é free, ele tem recursos pagos, mas ele tem uma versão free que tem de um
+tudo para você utilizar. Além disso, ele tem para PC e para celular. Então, você
+consegue utilizar ele no celular através de um aplicativo gratuito. Você tem aqui como
+fazer download para Windows, para Mac. E você tem um editor online dele.
+
+Então, se você quiser clicar em editar online, você tem um editor online. Você pode
+clicar aqui nele e editar o seu conteúdo online, então você pode fazer isso. Eu optei
+por pegar a versão de PC, então eu baixei aqui, mas você também pode fazer isso
+direto no seu celular, se você quiser. Na verdade, tudo que a gente fez até aqui, até
+agora, a gente poderia fazer pelo celular. Utilizando o Midjourney no Discord, ali tudo
+pelo celular, utilizando o ChatGPT pelo celular, editando tudo pelo celular, tudo que a
+gente fez até aqui você poderia fazer de ponta a ponta pelo celular também.
+
+Eu vou pegar a versão de Windows para conseguir te mostrar de uma maneira mais
+fácil. Então, eu vou abrir aqui o meu CapCut, eu já instalei. Ele é bem leve, ele não é
+igual aqueles editores de vídeo que são ultra, mega pesados. Você não precisa
+passar cartão de crédito, não precisa passar nada. Então, quando você abrir, ele vai
+pedir para você logar com o seu Gmail ou com uma conta do TikTok e basta clicar em
+New Project.
+
+Você já pode ver que eu já brinquei bastante com ele, né? E aqui, nessa telinha, o
+que você vai fazer? Você vai clicar aqui em Media que é essa primeira caixinha, vai
+clicar aqui em Import e vamos importar o nosso áudio, né? Então, como é eu faço
+para pegar o caminho do áudio? Felipão vem aqui no meu VS Code, onde está o meu
+áudio, clico aqui em Copy Path. Botão direito Copy Path no Output e vou colar aqui o
+caminho certinho e tá aqui... Mágica. Já apareceu o áudio aqui. Eu clico aqui no sinal
+de mais e ele vai adicionar uma track aqui, uma linha de tempo aqui. E quando eu
+clico em um áudio, olha só, está vendo que ele tem essas partes vermelhinhas? São
+as partes que deram uma leve estourada. Eu consigo pegar aqui, quando eu clico
+nesse áudio eu vou aqui no botão direito, aqui em cima do áudio aqui, e aparece do
+meu lado direito para eu baixar um pouquinho o volume. Se eu quiser, posso baixar
+um pouco aqui os decibéis ou aumentar um pouco, só para sumir aqui esses áudios
+que ficaram ali estourados.
+
+Eu posso fazer isso. Posso adicionar aqui, por exemplo, uma redução de ruídos posso
+fazer isso. E se eu quiser, eu posso ativar essa opção de efeitos de voz, onde eu
+posso colocar efeitos de voz, por exemplo de elfo. Então quando eu faço isso e dou
+um play, olha só que legal: “Oi, galera. Sejam muito bem-vindos ao DevQuest.”
+
+Obviamente que ele deixa com uma voz muito engraçada, né? Mas eu tenho vários
+outros efeitos pré-prontos aqui. Então, eu tenho o de distorção, olha só. Parece
+aquelas vozes de testemunha anônima, né? Para deixar mais alto. Deixa um tom mais
+alto, né?
+
+Com eco, mic hog. Olha só, né? Então dá um efeito quase de eco aqui. Vou deixar
+no none e vou desmarcar isso aqui para não colocar nenhum efeito. E vou deixar
+assim. Agora vamos para um som de fundo. Eu vou clicar aqui na camada de áudio
+tá vendo? Onde tem tudo de edição de áudio.
+
+E aí vai me trazer uma biblioteca aqui ó, clicando em music, de vários sons. E aí eu
+vou pegar, por exemplo aqui um hip hop, né? E aí quando eu clico nele aqui, ele tem
+vários sons. E eu posso dar um search aqui, eu vou colocar aqui lo-fi. Tá? Então eu
+gosto de lo-fi. Eu vou clicar aqui no lo-fi e posso pegar uma música aqui aleatória.
+Então eu vou colocar Lo-Fi Tech, só para a gente encontrar alguma coisa.
+
+Gostei desse aqui. O que eu vou fazer? Eu vou clicar aqui no sinal de mais nele. Ele
+vai dar um add to track e aí vai adicionar ele aqui embaixo. Só que quando eu der
+play, ele vai ficar muito mais alto que a minha voz. Que a minha voz não, né? Que a
+voz do robô. O que eu vou fazer? Eu vou clicar nela aqui e vou abaixar o volume de
+decibéis aqui.
+
+Vou deixar mais baixo aqui, vou deixar no menos 20, só para não ocupar o espaço
+da voz. Olha só que legal. E aí o que eu vou fazer? Como eu tenho mais áudio do
+que eu tenho música, eu posso dar um Ctrl + C aqui e aí eu movo essa agulhinha
+aqui em cima.
+
+A agulhinha é onde está a minha linha do tempo. Vou dar um Ctrl + V aqui, ó. Duas
+vezes só para ele ter ali esse áudio preenchendo ali tudo, né? Só que, olha só, esse
+terceiro áudio aqui eu vou dar uma ajeitada a mais nele. O que eu vou fazer? Ao invés
+de deixar ele totalmente na íntegra aqui, eu vou cortar ele um pouco depois que o
+meu áudio acaba, porque aqui o que vai acontecer?
+
+Meu áudio vai acabar e a voz vai morrendo e a música não. Ela continua. Ficou meio
+seco, né? Então o que eu vou fazer? Eu posso estender um pouco aqui essa música
+aqui. Deixa eu pensar um pouco. Vamos fazer o seguinte, vamos adicionar essa
+música. Só que que a gente vai fazer? A gente vai pegar essa parte aqui ó, E cortar
+ela aqui.
+Como que a gente faz para cortar? Eu tenho essas opções de corte aqui, tá vendo?
+Que é Split, e aí eu tenho o Split que deleta tudo para a esquerda, para a direita então
+eu vou clicar aqui em Split, que é essa primeira opção. E aí ele vai sobrar essa parte
+aqui que eu vou deletar. Vou rodar a rodinha do mouse aqui segurando a tecla Ctrl
+só para dar um zoom, e nesse último carinha aqui, eu vou dar um efeito de fade out,
+que é aquele efeito lá da voz ir sumindo, sabe? Do áudio ir desaparecendo. Então eu
+vou deixar assim, ó. Vamos ver como é ficou. Ó, e o áudio vai sumindo ali no fundo,
+né? Bem legal.
+
+E só pra grudar esse áudio aqui no outro e dar um efeito aqui mais contínuo, eu vou
+cortar essa pequena partezinha aqui dele, ó. Vou dar um cortar. Então eu vou vir aqui
+e vou dar um deletar aqui nesse trecho e vou juntar isso aqui com esse aqui para dar
+o efeito que a música está morrendo aqui.
+
+Então eu posso fazer isso ou eu posso vir aqui e até mesmo pesquisar uma música
+aqui que tenha o tempo de duração do meu podcast. Então esse aqui, por exemplo,
+eu tenho 4 minutos. Posso vir aqui e adicionar ela. Então eu adicionei ela aqui. Vou
+mover ela para baixo do nosso áudio como a gente já viu. Vou abaixar o volume dela
+aqui. Vou abaixar ela aqui para não sobrepor a voz. Essa aqui, até as ondas ficarem
+um pouco abaixo dessa linha aqui. Legal, então vamos dar o play. E aí eu posso vir
+aqui e cortar esse áudio. Então posso clicar aqui, posso dar um split ou dar um split
+e falando para ele, ó deleta tudo que está na direita. Só que eu vou mover a agulhinha
+um pouco depois do final do áudio.
+
+E vamos deletar tudo que está à direita, tá? Agora vamos clicar nesse áudio e
+adicionar um efeito de fade out para o áudio ir morrendo aqui. Então, vamos ver como
+é ficou o finalzinho... olha, o áudio continua um pouquinho, e vai morrendo. E eu tenho
+outras coisas aqui que me ajudam também, como por exemplo, o Sound Effects, onde
+eu tenho vários efeitos de som aqui livres de direitos autorais, onde eu posso adicionar
+aqui, né? Então ele tem algumas coisas aqui de trilha sonora, então uma caixinha de
+música entre outras coisas. Então assim, eu tenho vários efeitos, efeitos de terror,
+efeitos de magia. Então eu tenho várias coisinhas mesmo bem legais aqui. Então por
+exemplo, no Sound Effects aqui, eu vou pegar o efeito... Nossa, esse de grito aqui
+não é legal, né? Vamos ver o que mais a gente tem aqui de efeito. Olha só, relaxing
+background. Então tem várias coisas aqui que você pode colocar. Instrumental, por
+exemplo, o som de guitarra. E como é eu faço para adicionar isso no podcast? Eu
+clico aqui no sinal de mais e ele vai cair aqui para baixo. Então olha como ficou o
+comecinho. Peraí deixa eu voltar ele de novo.
+
+Então olha só, ele ficou bem aqui. E pra deixar ele, eu vou dar um CTRL e girar a
+bolinha do mouse pra dar um zoom. E eu vou fazer o que? Eu vou cortar esse espaço
+vazio que tem aqui nesse som de guitarra, tá? Então eu vou clicar aqui e vou clicar
+aqui em DELETE LEFT para ele deletar tudo que está à esquerda.
+
+E vou mover ele mais para cá, para o som da guitarra começar exatamente quando
+o áudio começa. E vou baixar um pouco do volume dele, né? Vou clicar nele, vou
+clicar aqui em volume e vou baixar um pouco aqui os decibéis dele. E olha só, vamos
+ver como é que ficou... Ficou bem mais legal, né? Então, como é que a gente faz para
+exportar isso aqui agora? A gente vai clicar aqui em Export, no canto superior direito
+do CapCut. Eu vou dar um nome para ele, vou chamar aqui de podcast_editado. Por
+padrão ele vem com essa caixinha de exportar vídeo marcada só que eu não quero
+que ele gere um vídeo, eu quero que ele gere um áudio, então você vai desmarcar a
+opção vídeo exporting e vai deixar marcado essa opção aqui, exporting audio, e aí
+você pode escolher o formato, que é mp3, wav, aac, então eu vou deixar o mp3
+mesmo.
+
+Vou selecionar o caminho aqui, então eu posso clicar aqui e selecionar o caminho, já
+está na minha pastinha aqui do meu VS Code, mas você pode selecionar qualquer
+outra pasta e clicar em selecionar e vou dar um export. E aí ele vai pegar e vai
+renderizar todo esse áudio aí e vai gerar para a gente o nosso podcast editado e
+assim, a gente fez tudo isso de ponta a ponta com ferramentas, ou seja, eu gerei um
+podcast inteiro em menos de uma hora.
+
+Obviamente que o meu podcast ficou enxuto, mas o tempo para fazer um podcast
+desse aqui que eu levei, se fosse para fazer um podcast de 15, meia hora ainda, ainda
+seria o mesmo. E olha que legal o resultado final, quando eu clico nele aqui, a gente
+já tem o nosso áudio MP3 de um podcast editado, bem enxuto, ficou com dois minutos
+e pouco, mas o resultado ficou muito legal:
+
+"Olá galera, sejam muito bem-vindos ao DevQuest, a ordem dos desenvolvedores. O
+podcast que vai te levar em uma jornada épica pelo fascinante mundo do
+desenvolvimento front-end. Aqui, desvendaremos os segredos e desafios".
+
+Muito legal, né? E obviamente que você pode fazer todo esse processo substituindo
+partes, né? Você pode falar, poxa, eu vou fazer o roteiro por conta própria, ou às
+vezes você fala, não eu vou narrar, o ChatGPT vai criar o roteiro e eu que vou narrar
+para eu aumentar a minha autoridade tech ali, ou até mesmo se você quer não, se
+você quer criar uma newsletter, você quer posicionar as suas redes sociais e quer
+estar sempre gerando conteúdo, você pode usar todo esse processo automatizado
+aí, mas utilize de uma maneira estratégica ali, ou até mesmo por hobby, por que não,
+pra que você consiga ter o seu próprio podcast.

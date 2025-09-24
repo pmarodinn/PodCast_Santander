@@ -1,0 +1,136 @@
+E a próxima ferramenta que eu vou te mostrar aqui é o nosso robô narrador aqui.
+Então ele vai estar aqui dentro do nosso documento do Notion. Ele vai estar aqui em
+narrador e você vai acessar a aba aqui do Eleven Labs. E eu vou até abrir uma aba
+anônima aqui para entrar deslogado nesse primeiro momento, que é a mesma visão
+que você vai ter só para você conhecer mesmo o robô.
+
+E a ideia é que ele é justamente uma ferramenta ali de gerar síntese de texto de uma
+maneira muito mais amigável. Ele tem vários produtos aqui dentro, ele tem uma
+biblioteca de voz, tem alguns projetos, alguns produtos, mas o que a gente vai utilizar
+é esse speech synthesis basicamente. Aqui, quando você não loga você não está
+logando a ferramenta você consegue testar algumas vozes com até 333 caracteres.
+
+E aí o que eu vou fazer? Eu vou escolher aqui português: "As ideias são os pontos
+de partida de todas as fortunas". E olha só, ele já gerou aqui uma frase aleatória e
+colocou uma voz. E eu posso escolher outras vozes, então eu tenho a voz do Adam,
+do Domi, da Elli, do Josh. Olha só a do Josh. Vamos ouvir: "As ideias são os pontos
+de partida de todas as fortunas". E elas são bem assim, bem perto mesmo de uma
+voz real.
+
+Vamos colocar a voz da Rachel aqui só para ouvir: "as ideias são os pontos de partida
+de todas as fortunas". Legal, né? Então assim, são vozes muito bem trabalhadas
+assim, e a gente pode colar o nosso roteiro. Então, o que eu vou fazer? Obviamente
+que quando eu não estou logado, eu tenho um limite de 333 caracteres. Então, eu
+vou conseguir copiar só um trecho aqui da abertura. Então vou pegar aqui, vou voltar
+lá no nosso Eleven Labs, vou colar aqui até onde ele deixar, vamos ver, então ele tem
+um limite de 333 caracteres vamos usar a voz do Arnold aqui, vamos ver como é a
+voz do Arnold. Olha só, ele vai gerar...
+
+"Narrador: Olá, galera! Sejam muito bem-vindos ao DevQuest - A ordem dos
+desenvolvedores! O podcast que vai te levar em uma jornada épica pelo fascinante
+mundo do desenvolvimento front-end. Aqui, desvendaremos os segredos e desafios
+dessa área. Tudo de uma forma descomplicada e divertida. Então, prepare-se...".
+Legal, né? Obviamente que tem muitas coisas que são da emoção humana da voz
+humana e que um robô ainda não imita tão bem.
+
+Então, eu vou tirar essa parte aqui do narrador. Vamos escolher uma outra voz, vamos
+testar a voz do Antoni nesse texto vamos ver como é que fica... "olá galera, sejam
+muito bem-vindos ao DevQuest, a ordem dos desenvolvedores". Eu gostei da voz do
+Anthony, né?
+
+Então você pode ir testando algumas vozes aqui então eu vou colocar a voz do Sam,
+vamos ver como é que é a voz do Sam aqui no Eleven Labs: "Olá, galera! Sejam
+muito bem-vindos ao DevQuest, a Ordem dos Desenvolvedores, o podcast que vai te
+levar em uma jornada épica pelo fascinante mundo do desenvolvimento front-end.
+Aqui, desvendaremos os segredos e desafios dessa área". Eu gostei da voz do Sam
+também, então assim, esse leque de vozes vai ajudar a gente a produzir o nosso
+podcast.
+E eu vou acabar utilizando o do Adam aqui mesmo, que foi o que eu mais gostei, mais
+simpatizei, e uma vez que eu gero esse conteúdo aqui ó, eu consigo clicar em
+download áudio. Então eu consigo baixar o áudio mp3 disso aqui e posso levar para
+qualquer software de edição. Depois dali, e depois a gente vai ver algum software de
+edição ali, mas olha só, eu já tenho o áudio que a ferramenta me gerou e olha que
+legal. Então a gente já tem: "Olá, galera! Sejam muito bem-vindos ao DevQuest, a
+ordem dos desenvolvedores."
+
+Muito legal, né? Então assim, quando você não está logado, você tem esse limite de
+333 caracteres que você até poderia gerar por aqui, bloquinho por bloquinho e salvar
+isso aí depois e acabar utilizando ele aí, né? Porém quando você loga a ferramenta
+não é gratuita. Então, a primeira coisa que eu queria deixar claro para você é ela não
+é gratuita, porém quando você faz seu cadastro, ela te dá ali alguns créditos.
+
+Então, quando você fizer seu cadastro, fazer o login, deixa eu só desativar o meu
+Dark Mode aqui. Pronto, então olha só, quando você cadastra e faz um login, ele te
+dá um crédito aqui de 10 mil cotas então ele vai gastando essas cotas aqui conforme
+você vai gerando alguns conteúdos e você consegue ter vários modelos aqui de
+língua para escolher, é bem legal, então eu vou escolher aqui uma que é
+multilinguagem, consigo configurar a estabilidade da voz, da claridade da voz, consigo
+escolher um modelo daqueles.
+
+Então, eu consigo ir trabalhando ali as vozes. Então, eu vou escolher a
+multilinguagem aqui, que fala em português, e vamos testar aqui uma fala, tipo: "Olá
+Mundo". Vamos testar isso aqui, Generate, e ele vai gastando ali meus créditos.
+Posso colocar a estabilidade, posso ir mexendo ali nele, mas vamos pegar lá uma
+parte do nosso roteiro já para a gente já ir testando isso, né?
+
+Porque eu acho que é parte mais divertida, né? Da gente ir vendo ali. E aí, o que eu
+vou fazer? Vou voltar aqui no Eleven Labs, vamos deixar ele aqui, né? Vamos colocar
+ele aqui. Eu preciso clicar em Generate, né? Você vê que eu vou gastando ali as
+minhas cotas: "Olá, galera. Sejam muito bem-vindos ao DevQuest, a Ordem dos
+Desenvolvedores".
+
+Legal, né? Deixa eu ver como é sai a voz do Sam: "Olá, galera. Sejam muito bem-
+vindos ao DevQuest, a Ordem dos Desenvolvedores". Ele deu uma leve bugada aqui
+que ele voltou para o Adam e eu quero o Sam.
+
+Vamos dar um generate aqui, ó. Olha que ele vai gastando minhas contas. Eu vou
+utilizar a voz do Sam e aí eu vou trazer todo o meu conteúdo aqui, ó. Vamos ver como
+ele se comporta aqui, ó. Então eu vou colar todo o meu texto primeiro, né? Então, eu
+vou deixar aqui sem essas partes aqui de que está escrito curiosidade sem esse título
+aqui de narrador.
+
+Vou tirar essa parte aqui também. Vamos ver como é que fica o resultado final disso
+aqui. Provavelmente eu vou gastar a maioria das cotas agora, mas beleza. Olha só:
+"Olá galera! Sejam muito bem-vindos ao DevQuest, a Ordem dos Desenvolvedores,
+o podcast que vai te levar em uma jornada épica pelo fascinante mundo do
+desenvolvimento front-end. Aqui, desvendaremos os segredos e desafios dessa área,
+tudo de uma forma descomplicada e divertida. Então, prepare-se para embarcar
+nessa aventura tecnológica junto comigo, seu guia nessa jornada. Eu sou o Felipão,
+e para começar nossa jornada, vou compartilhar com vocês uma curiosidade incrível
+sobre CSS. Você sabia que o CSS, ou Cascading Style Sheets, foi criado há mais de
+duas décadas? Isso mesmo, em 1996. Ele é a linguagem responsável por dar estilo
+e formatar os elementos de uma página web, permitindo que designers e
+desenvolvedores criem layouts incríveis. Desde então, o CSS passou por várias
+atualizações e evoluções, tornando-se uma ferramenta poderosa e indispensável
+para o front-end. Agora, vamos conhecer uma ferramenta fantástica para
+desenvolvedores front-end, o Visual Studio Code. O VS Code é um editor de código-
+fonte desenvolvido pela Microsoft, e é altamente popular na comunidade de
+programação. Com uma interface intuitiva e repleta de recursos úteis, ele se tornou o
+queridinho dos desenvolvedores. Além disso, o VS Code possui extensões
+personalizáveis, o que permite a adição de recursos específicos para o
+desenvolvimento frontend, como realce de sintaxe, depuração código e até mesmo
+integração com ferramentas de controle de versão. Com ele, você poderá programar
+de forma mais eficiente e produtiva. E assim chegamos ao final de mais um
+CodeQuest. Espero que vocês tenham se divertido e aprendido muito sobre o mundo
+do front-end. Lembre-se, a jornada do desenvolvedor é repleta de desafios, mas com
+dedicação e paixão, você pode se tornar um verdadeiro mestre nessa arte. Continue
+explorando, estudando e praticando, e logo você estará criando interfaces incríveis e
+funcionais. Eu sou o Felipão, e esse foi o Code Quest dessa semana. Até a próxima
+aventura!"
+
+Olha só, esse foi o áudio que ele gerou pra gente, vamos baixar esse áudio aqui ó,
+áudio sintetizado né, então baixei e ele já me rendeu aqui o áudio aqui né, já me deu
+o áudio aqui de dois minutos e pouco, a gente viu ali que ele foi perdendo qualidade
+no final né, se comparado com o começo, mas tudo bem, ele ainda a gente tá
+utilizando o modelo gratuito né mas dá para ver que ele tem uma qualidade muito
+legal né, então eu vou salvar esse arquivo, eu poderia vir aqui e dar um upload desse
+áudio de voz que a gente sintetizou.
+
+Então aqui, áudio de voz sintetizado, vou subir ele aqui no meu Notion, lembrando
+que estou usando a versão gratuita do Notion também, tá? Então eu já tenho o meu
+áudio MP3 aqui do meu podcast gerado. Bem legal, né? Pensar que a gente fez tudo
+isso aqui só, sem aparecer, sem colocar a nossa voz nem nada, gerando o roteiro,
+gerando as artes e gerando a fala do podcast.
+
+Então, vamos ver também agora o que a gente tem de opções até para poder formatar
+o nosso podcast e deixar ele editado.
